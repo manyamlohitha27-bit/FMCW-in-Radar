@@ -30,7 +30,7 @@ The project generates a **linear frequency-modulated (chirp) signal**, simulates
 ## 📐 Key Equations
 
 * **Chirp slope:**
-  [ S = \frac{B}{T} ]
+  [ S = {B}/{T} ]
 
 * **Time delay:**
   [ \tau = \frac{2R}{c} ]
