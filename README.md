@@ -30,16 +30,16 @@ The project generates a **linear frequency-modulated (chirp) signal**, simulates
 ## 📐 Key Equations
 
 * **Chirp slope:**
-  [ S = {B}/{T} ]
+  S = B / T
 
 * **Time delay:**
-  [ \tau = \frac{2R}{c} ]
+τ = 2R / c
 
 * **Beat frequency:**
-  [ f_b = S \cdot \tau ]
+  f_b = S × τ
 
 * **Target range:**
-  [ R = \frac{c \cdot f_b}{2S} ]
+  R = (c × f_b) / (2S)
 
 where:
 
